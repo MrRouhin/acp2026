@@ -11,7 +11,7 @@ int main() {
     
     // Check if scanf successfully read an integer
     if (scanf("%d", &n) != 1) {
-        printf("Invalid input: Please enter rouhin number.\n");
+        printf("Invalid input: Please enter a number.\n");
         return 0;
     }
     
